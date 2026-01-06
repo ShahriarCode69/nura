@@ -54,9 +54,9 @@ export default function Navbar() {
 							alt="Logo"
 							width={40}
 							height={40}
-							className="rounded-full invert"
+							className=""
 						/>
-						<span className="font-semibold text-lg text-white">Nura</span>
+						<span className="font-semibold text-2xl text-white">Nura</span>
 					</Link>
 
 					{/* Center Links (Desktop) */}
