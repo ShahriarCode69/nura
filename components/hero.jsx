@@ -1,5 +1,5 @@
 import Button from "./ui/button";
-import heroCards from "@/components/heroCards.jsx";
+import HeroCards from "@/components/heroCards.jsx";
 
 export default function HeroSection() {
 	return (
@@ -17,7 +17,7 @@ export default function HeroSection() {
 					<Button variant="dark">Call Us Now</Button>
 				</div>
 			</div>
-			<heroCards />
+			<HeroCards />
 		</section>
 	);
 }
