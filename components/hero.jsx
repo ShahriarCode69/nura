@@ -18,6 +18,8 @@ export default function HeroSection() {
 				</div>
 			</div>
 			<HeroCards />
+
+			
 		</section>
 	);
 }
